@@ -1,6 +1,6 @@
 # Gorkhaflix
 This is a Netflix clone built with React.js, Tailwind CSS, Firebase Auth, The Movie Database(TMDB) API.
-![Gorkhaflix Homepage](https://github.com/gorkhaflix/Gorkhaflix/public/assets/Ssreenshots.jpg)
+![Gorkhaflix Homepage](https://github.com/chdepz/Gorkhaflix-React-JS/blob/master/public/assets/Screenshot%20(23).png)
 
 
 # Getting Started with Create React App
